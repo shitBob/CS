@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\86184\\.nuget\\packages\\": {}
+    "C:\\Users\\yy\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\86184\\Desktop\\CShub\\CS\\learingc#\\Myfirstapplication\\Myfirstapplication\\Myfirstapplication.csproj",
+      "projectUniqueName": "C:\\Users\\yy\\Desktop\\CS\\learingc#\\Myfirstapplication\\Myfirstapplication\\Myfirstapplication.csproj",
       "projectName": "Myfirstapplication",
-      "projectPath": "C:\\Users\\86184\\Desktop\\CShub\\CS\\learingc#\\Myfirstapplication\\Myfirstapplication\\Myfirstapplication.csproj",
-      "packagesPath": "C:\\Users\\86184\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\86184\\Desktop\\CShub\\CS\\learingc#\\Myfirstapplication\\Myfirstapplication\\obj\\",
+      "projectPath": "C:\\Users\\yy\\Desktop\\CS\\learingc#\\Myfirstapplication\\Myfirstapplication\\Myfirstapplication.csproj",
+      "packagesPath": "C:\\Users\\yy\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\yy\\Desktop\\CS\\learingc#\\Myfirstapplication\\Myfirstapplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\86184\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\yy\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
