@@ -1,0 +1,15 @@
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\obj\Debug\net6.0\reflection.csproj.AssemblyReference.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\obj\Debug\net6.0\reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\obj\Debug\net6.0\reflection.AssemblyInfoInputs.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\obj\Debug\net6.0\reflection.AssemblyInfo.cs
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\obj\Debug\net6.0\reflection.csproj.CoreCompileInputs.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\bin\Debug\net6.0\reflection.exe
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\bin\Debug\net6.0\reflection.deps.json
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\bin\Debug\net6.0\reflection.runtimeconfig.json
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\bin\Debug\net6.0\reflection.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\bin\Debug\net6.0\reflection.pdb
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\obj\Debug\net6.0\reflection.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\obj\Debug\net6.0\refint\reflection.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\obj\Debug\net6.0\reflection.pdb
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\obj\Debug\net6.0\reflection.genruntimeconfig.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\reflection\reflection\obj\Debug\net6.0\ref\reflection.dll

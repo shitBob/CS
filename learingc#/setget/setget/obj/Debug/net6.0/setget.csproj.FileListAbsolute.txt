@@ -1,0 +1,15 @@
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\bin\Debug\net6.0\setget.exe
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\bin\Debug\net6.0\setget.deps.json
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\bin\Debug\net6.0\setget.runtimeconfig.json
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\bin\Debug\net6.0\setget.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\bin\Debug\net6.0\setget.pdb
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\obj\Debug\net6.0\setget.csproj.AssemblyReference.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\obj\Debug\net6.0\setget.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\obj\Debug\net6.0\setget.AssemblyInfoInputs.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\obj\Debug\net6.0\setget.AssemblyInfo.cs
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\obj\Debug\net6.0\setget.csproj.CoreCompileInputs.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\obj\Debug\net6.0\setget.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\obj\Debug\net6.0\refint\setget.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\obj\Debug\net6.0\setget.pdb
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\obj\Debug\net6.0\setget.genruntimeconfig.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\setget\setget\obj\Debug\net6.0\ref\setget.dll

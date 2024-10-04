@@ -1,0 +1,12 @@
+C:\Users\86184\Desktop\CShub\CS\learingc#\get_set\get_set\bin\Debug\net6.0\get_set.deps.json
+C:\Users\86184\Desktop\CShub\CS\learingc#\get_set\get_set\bin\Debug\net6.0\get_set.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\get_set\get_set\bin\Debug\net6.0\get_set.pdb
+C:\Users\86184\Desktop\CShub\CS\learingc#\get_set\get_set\obj\Debug\net6.0\get_set.csproj.AssemblyReference.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\get_set\get_set\obj\Debug\net6.0\get_set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86184\Desktop\CShub\CS\learingc#\get_set\get_set\obj\Debug\net6.0\get_set.AssemblyInfoInputs.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\get_set\get_set\obj\Debug\net6.0\get_set.AssemblyInfo.cs
+C:\Users\86184\Desktop\CShub\CS\learingc#\get_set\get_set\obj\Debug\net6.0\get_set.csproj.CoreCompileInputs.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\get_set\get_set\obj\Debug\net6.0\get_set.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\get_set\get_set\obj\Debug\net6.0\refint\get_set.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\get_set\get_set\obj\Debug\net6.0\get_set.pdb
+C:\Users\86184\Desktop\CShub\CS\learingc#\get_set\get_set\obj\Debug\net6.0\ref\get_set.dll

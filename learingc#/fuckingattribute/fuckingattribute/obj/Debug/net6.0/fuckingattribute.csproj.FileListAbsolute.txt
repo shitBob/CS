@@ -1,0 +1,15 @@
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\obj\Debug\net6.0\fuckingattribute.csproj.AssemblyReference.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\obj\Debug\net6.0\fuckingattribute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\obj\Debug\net6.0\fuckingattribute.AssemblyInfoInputs.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\obj\Debug\net6.0\fuckingattribute.AssemblyInfo.cs
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\obj\Debug\net6.0\fuckingattribute.csproj.CoreCompileInputs.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\bin\Debug\net6.0\fuckingattribute.exe
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\bin\Debug\net6.0\fuckingattribute.deps.json
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\bin\Debug\net6.0\fuckingattribute.runtimeconfig.json
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\bin\Debug\net6.0\fuckingattribute.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\bin\Debug\net6.0\fuckingattribute.pdb
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\obj\Debug\net6.0\fuckingattribute.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\obj\Debug\net6.0\refint\fuckingattribute.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\obj\Debug\net6.0\fuckingattribute.pdb
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\obj\Debug\net6.0\fuckingattribute.genruntimeconfig.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\fuckingattribute\fuckingattribute\obj\Debug\net6.0\ref\fuckingattribute.dll

@@ -1,105 +1,55 @@
-﻿// See https://aka.ms/new-console-template for more information
-
-
-
-// this is object    它是c#中所有数据类型的基类
-//object obj;
-//obj = 100;   //   装箱操作
-
-//console.writeline(obj.tostring());
-//object obj1 = 200;
-//object obj2 = 65;
-//console.writeline((int)obj + (int)obj1);
-
-//console.writeline(obj2.tostring());
-
-
-//using System;
-//namespace lol {
-
-//        class A
-//        {
-//            public int a;
-//            public A(int a)
-//            { this.a = a; }
-
-//        }
-
-
-//    class runcode {
-//    static void Main(String[] args)
-//        {
-//            object obj = new A(3);
-//            A t1;
-//            t1 = obj as A;
-//            string t2;
-//            t2 = obj as string;
-//            Console.WriteLine(t1.a);
-//            if (t2 == null) { Console.WriteLine("t2 is NULL!"); }
-
-//        }
-
-
-//    };
-
-
-
-// }
-
-
-
-
-
-//int [] a = new int[] { 1, 2, 3, 4, 5 };
-
-//foreach (int element in a)
-//{
-//    Console.WriteLine(element);
-//}
-
-
-
-
-using System;
-using Myfirstapplication;
-namespace RectangleApplication
+﻿using System;
+namespace nihao
 {
-    class Rectangle
+    public interface Basicmethod
     {
-        //成员变量
-        public double length;
-        internal double width;
-
-        double GetArea()
-        {
-            return length * width;
-        }
-        public void Display()
-        {
-            Console.WriteLine("长度： {0}", length);
-            Console.WriteLine("宽度： {0}", width);
-            Console.WriteLine("面积： {0}", GetArea());
-        }
-    }//end class Rectangle    
-    class ExecuteRectangle
+    double method1();
+    double method2();
+    }
+    
+    class Circle : Basicmethod
+{
+    public double r;
+    public Circle (double x)
     {
-        static void Main(string[] args)
-        {
-            Rectangle r = new Rectangle();
-            r.length = 4.5;
-            r.width = 3.5;
-            r.Display();
-            Console.ReadLine();
+        this.r = x;
+    }
+    public double method1()
+    {
+        return 3.14 * r * r;
+    }
+    public double method2()
+    {
+        return 2 * 3.14 * r;
+    }
+}
+    class squre :  Basicmethod
+{
+    public double a;
 
-            Class1 x1 = new Class1(13);
-            Console.WriteLine(x1.b);
-        }
+    public squre (double x)
+    { this.a = x; }
+    public double method1()
+    {
+        return a * a;
+    }
+    public double method2 ()
+    {
+        return a * 4;
     }
 }
 
 
+    class program
+{
+    public static void Main(string[] args)
+    {
+        Circle yuan1 = new Circle(3);
+        squre zfx    = new squre(3);
 
+        Console.WriteLine(yuan1.method1());
+        Console.WriteLine(yuan1.method2());
+    }
 
-
-
-
+}
+}
