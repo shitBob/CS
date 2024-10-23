@@ -37,6 +37,7 @@ namespace nihao
     {
         return a * 4;
     }
+   static A() {  }
 }
 
 
