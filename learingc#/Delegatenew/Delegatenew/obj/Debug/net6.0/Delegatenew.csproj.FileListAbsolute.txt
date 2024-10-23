@@ -1,0 +1,15 @@
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\bin\Debug\net6.0\Delegatenew.exe
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\bin\Debug\net6.0\Delegatenew.deps.json
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\bin\Debug\net6.0\Delegatenew.runtimeconfig.json
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\bin\Debug\net6.0\Delegatenew.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\bin\Debug\net6.0\Delegatenew.pdb
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\obj\Debug\net6.0\Delegatenew.csproj.AssemblyReference.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\obj\Debug\net6.0\Delegatenew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\obj\Debug\net6.0\Delegatenew.AssemblyInfoInputs.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\obj\Debug\net6.0\Delegatenew.AssemblyInfo.cs
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\obj\Debug\net6.0\Delegatenew.csproj.CoreCompileInputs.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\obj\Debug\net6.0\Delegatenew.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\obj\Debug\net6.0\refint\Delegatenew.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\obj\Debug\net6.0\Delegatenew.pdb
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\obj\Debug\net6.0\Delegatenew.genruntimeconfig.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\Delegatenew\Delegatenew\obj\Debug\net6.0\ref\Delegatenew.dll

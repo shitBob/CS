@@ -10,7 +10,10 @@
 object obj
 obj = 100  // 装箱 
 Console.WriteLine(obj.ToString()); //拆箱
+int a =(obj) 
 ```
+
+使用(int)等强制转换进行拆盒可能会发生报错 ，使用as 关键字可以避免这个问题。
 
 ## 2 Dynamic 类型 
 

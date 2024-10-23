@@ -1,0 +1,15 @@
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\bin\Debug\net6.0\newgeneric.exe
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\bin\Debug\net6.0\newgeneric.deps.json
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\bin\Debug\net6.0\newgeneric.runtimeconfig.json
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\bin\Debug\net6.0\newgeneric.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\bin\Debug\net6.0\newgeneric.pdb
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\obj\Debug\net6.0\newgeneric.csproj.AssemblyReference.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\obj\Debug\net6.0\newgeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\obj\Debug\net6.0\newgeneric.AssemblyInfoInputs.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\obj\Debug\net6.0\newgeneric.AssemblyInfo.cs
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\obj\Debug\net6.0\newgeneric.csproj.CoreCompileInputs.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\obj\Debug\net6.0\newgeneric.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\obj\Debug\net6.0\refint\newgeneric.dll
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\obj\Debug\net6.0\newgeneric.pdb
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\obj\Debug\net6.0\newgeneric.genruntimeconfig.cache
+C:\Users\86184\Desktop\CShub\CS\learingc#\newgeneric\newgeneric\obj\Debug\net6.0\ref\newgeneric.dll
